@@ -5,6 +5,7 @@ public class JavaTestGit {
 	public static void main(String[] args) {
 
 		//hello work push
+		//commit and push test
 		String a = null;
 		System.out.println(null == a);
 		System.out.println(a == null);
