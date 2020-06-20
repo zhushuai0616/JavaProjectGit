@@ -17,7 +17,7 @@ public class JavaTestGit {
 //pull test
 		
 		//测试解决冲突，本地
-		
+		//测试解决冲突remote
 		
 		
 		
