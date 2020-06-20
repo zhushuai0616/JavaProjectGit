@@ -14,8 +14,9 @@ public class JavaTestGit {
 //		System.out.println(a.equals(""));
 		
 
-//pull test
-		
+//pull test     
+
+		//测试解决冲突，remote
 		
 		
 		
